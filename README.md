@@ -1,4 +1,4 @@
-# WareFlow - Advanced Warehouse Locator
+# LocateIQ - Advanced Warehouse Locator
 
 **An AI-powered React application for optimal warehouse location optimization with real-time analytics, interactive mapping, and comprehensive supply chain insights.**
 
@@ -292,15 +292,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/yourusername/warehouse-locator/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/warehouse-locator/discussions)
-- **Email**: wareflow@example.com
+- **Email**: locateiq@example.com
 
 ---
 
 **Built with ❤️ using React, Framer Motion, and cutting-edge web technologies.**
 
-*Transform your supply chain optimization with WareFlow - where data meets intelligence.*
+*Transform your supply chain optimization with LocateIQ - where data meets intelligence.*
 
-# WareFlow - Smart Warehouse Locator 🏭
+# LocateIQ - Smart Warehouse Locator 🏭
 
 A modern React-based warehouse optimization tool with **Three.js 3D animations** that helps businesses find the optimal warehouse location using AI-powered analytics, real-time traffic data, and weather insights.
 
@@ -532,4 +532,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Transform your supply chain with intelligent warehouse placement!** 🚀
 
-*Made with 💙 by the WareFlow Team*
+*Made with 💙 by the LocateIQ Team*
